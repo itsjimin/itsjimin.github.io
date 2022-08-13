@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "First post!"
 excerpt: "반가워요 다들"
 author: Jimin Oh
