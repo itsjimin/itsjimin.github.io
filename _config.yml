@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "itsjimin/itsjimin.github.io"
 teaser                   : "/assets/images/mainimage.png"
 logo                     : ""
-masthead_title           : "Jimin's box of chocolates"
+masthead_title           : "오지민의 이모저모 모아놓은 모음집."
 #breadcrumbs            : false
 words_per_minute         : 200
 comments:
