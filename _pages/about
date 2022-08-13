@@ -1,14 +1,6 @@
 ---
 permalink: /about/
 title: "블로그에 관하여"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+author_profile: true
 layout: single
 ---
-
-## itsjimin.github.io 블로그
-
-앞으로 블로그를 성실히 만들어나가겠습니다.
-
-감사합니다.
