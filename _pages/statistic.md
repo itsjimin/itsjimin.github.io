@@ -1,5 +1,5 @@
 ---
-title: "통계"
+title: "statistic"
 permalink: /categories/statistic/
 layout: category
 author_profile: true
