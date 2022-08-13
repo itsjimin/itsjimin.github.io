@@ -5,6 +5,7 @@ excerpt: "반가워요 다들"
 author: Jimin Oh
 date: '2022-08-13 15:06:00 +0900'
 last_modified_at: 2022-08-14 12:40:00 +0900
+permalinks: /categories/statistic/
 categories: 
       - statistic
 ---
