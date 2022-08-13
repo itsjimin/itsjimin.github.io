@@ -1,6 +1,9 @@
 ---
-title: "블로그에 관하여"
 permalink: /about/
+title: "블로그에 관하여"
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 layout: single
 ---
 
