@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ITJIMIN"
+title                    : "오지민의 이모저모"
 title_separator          : "-"
-subtitle                 : "**Jimin's box of chocolates**"
+subtitle                 : "Jimin's box of chocolates"
 name                     : "Jimin Oh(오지민)"
 description              : "Title3"
 url                      : "https://itsjimin.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "itsjimin/itsjimin.github.io"
 teaser                   : "/assets/images/mainimage.png"
 logo                     : ""
-masthead_title           : " "
+masthead_title           : "Jimin's box of chocolates"
 #breadcrumbs            : false
 words_per_minute         : 200
 comments:
