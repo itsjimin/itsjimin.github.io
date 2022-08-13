@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "안녕하세요 !"
+summary: The first post !
+author: Jimin Oh
+date: '2022-08-13 15:06:00 +0900'
+category: jekyll
+thumbnail: /assets/img/posts/code.jpg
+---
+## 오늘 처음 쓰는 글입니다.
+# 앞으로도 열심히 하겠습니다.
