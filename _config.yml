@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "오지민의 모음집"
+title                    : "Title"
 title_separator          : "-"
-subtitle                 : 이모저모 모아놓은 곳입니다.
+subtitle                 : "Title2."
 name                     : "Jimin Oh"
-description              : "수학도이며, 인공지능 및 관련 분야를 공부 중에 있습니다."
+description              : "Title3"
 url                      : "https://itsjimin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "itsjimin/itsjimin.github.io"
